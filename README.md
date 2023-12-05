@@ -1,2 +1,0 @@
-# secutiry-system-simulator
-XYITA
